@@ -1,0 +1,15 @@
+current directory: /Users/kawaikatsuharu/projects/rails_app/HerokuApp/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/Users/kawaikatsuharu/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170307-45301-1s3hrsp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kawaikatsuharu/projects/rails_app/HerokuApp/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/kawaikatsuharu/projects/rails_app/HerokuApp/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/kawaikatsuharu/projects/rails_app/HerokuApp/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170307-45301-1su9s0g
